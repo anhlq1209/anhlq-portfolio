@@ -295,7 +295,7 @@ img {
 }
 
 .home__blob {
-    width: 200px; /* 80% */
+    width: 250px; /* 80% */
     fill: var(--first-color);
 }
 
@@ -1021,7 +1021,7 @@ img {
         grid-template-columns: .25fr 3fr;
     }
     .home__blob{
-        width: 180px;
+        width: 250px;
     }
 
     .skills__title {
@@ -1147,7 +1147,7 @@ img {
         column-gap: 2rem;
     }
     .home__blob {
-        width: 270px;
+        width: 350px;
     }
     .home__scroll {
         display: block;
@@ -1247,7 +1247,7 @@ img {
     }
 
     .home__blob {
-        width: 400px;
+        width: 450px;
     }
     .home__social {
         transform: translateY(-6rem);
